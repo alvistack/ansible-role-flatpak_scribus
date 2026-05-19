@@ -1,4 +1,4 @@
-# Ansible Role for Scribus
+# Ansible Role for Scribus with Flatpak
 
 ## 13.6.0 - TBC
 

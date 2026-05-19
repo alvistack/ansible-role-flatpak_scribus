@@ -1,13 +1,13 @@
-# Ansible Role for Scribus
+# Ansible Role for Scribus with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-scribus/master)](https://gitlab.com/alvistack/ansible-role-scribus/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-scribus.svg)](https://github.com/alvistack/ansible-role-scribus/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-scribus.svg)](https://github.com/alvistack/ansible-role-scribus/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.scribus-blue.svg)](https://galaxy.ansible.com/alvistack/scribus)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_scribus/master)](https://gitlab.com/alvistack/ansible-role-flatpak_scribus/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_scribus.svg)](https://github.com/alvistack/ansible-role-flatpak_scribus/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_scribus.svg)](https://github.com/alvistack/ansible-role-flatpak_scribus/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_scribus-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_scribus)
 
-Ansible Role for Scribus Installation.
+Ansible Role for Scribus with Flatpak.
 
 ## Requirements
 
